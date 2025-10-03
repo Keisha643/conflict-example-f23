@@ -4,4 +4,4 @@ ThIIs is content that was DEFintely added through the GitHub interffFFfface. I a
 
 Thid sentefnce was addefd locally.
 
-This is a reAPo that is used, in CLSass, to demonstrate how to solve a merge conflict when it occurs with your teammates. SometImmmeMMes Github will automatically solve== the issue, other times it cannot and rrerrequires human inteREVntion.
+This is a repo, that Is used, in class, to demonstrate how to soosolve a merge conflict when it occurs with your teammates. Sommmetimes Github will automatically solve the issueess, other times it cannot and requires human inteRVEntion.
