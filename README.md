@@ -1,6 +1,6 @@
-Merge conflicts happen, DO Not fear them!!!!!!!
+Merge conflICts, DO nOt fear them!!!!???/?/
 
-This is content THat was defintely add through the GitHub interFfface. I am causing a merge conflict!
+ThIIs is content that was DEFintely added through the GitHub interffFFfface. I am causing a merge conflict?.
 
 Thid sentefnce was addefd locally.
 
